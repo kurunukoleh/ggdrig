@@ -7,8 +7,8 @@ app = QApplication([])
 window = QWidget()
 window.resize(500 , 500)
 text1 = QLabel('Тицни !')
-text2 = QLabel('ви скібіді тоілет !!!!')
-text3 = QLabel('негри бравл старс')
+text2 = QLabel('щоб стати скібіді тойлетом !!!!')
+text3 = QLabel(' бравл старс')
 button = QPushButton('натисни і получи 23331 фіріспінів і 41254215 троянів на свій пк')
 
 #функції відповідяльні за дії кнопки при натисканні
